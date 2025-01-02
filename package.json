@@ -1,0 +1,27 @@
+{
+  "name": "moredsjs",
+  "version": "0.0.1",
+  "description": "More data structure for javascript written in typescript",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "type": "module",
+  "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/TahaSadough/MoreDSJS.git"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "data structure",
+    "moredsjs",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Taha Sadough",
+  "license": "MIT",
+  "dependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}
