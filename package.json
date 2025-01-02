@@ -1,7 +1,7 @@
 {
   "name": "moreds",
-  "version": "0.0.1",
-  "description": "More data structure for javascript written in typescript",
+  "version": "0.0.2",
+  "description": "More data structure for javascript",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "type": "module",

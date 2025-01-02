@@ -1,6 +1,6 @@
 # MoreDS
 
-More data structure for javascript written in typescript
+More data structure for javascript
 
 ## Installation
 
