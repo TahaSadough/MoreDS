@@ -1,5 +1,5 @@
 {
-  "name": "moredsjs",
+  "name": "moreds",
   "version": "0.0.1",
   "description": "More data structure for javascript written in typescript",
   "main": "./dist/index.js",
@@ -7,14 +7,14 @@
   "type": "module",
   "types": "./dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/TahaSadough/MoreDSJS.git"
+    "url": "https://github.com/TahaSadough/MoreDS.git"
   },
   "scripts": {
     "build": "tsup"
   },
   "keywords": [
     "data structure",
-    "moredsjs",
+    "moreds",
     "javascript",
     "typescript"
   ],
